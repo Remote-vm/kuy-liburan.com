@@ -175,7 +175,7 @@
 				<br>
 				Phone 	: +6221 5159117
 			</p>
-			</p>Test Tambah<p>
+			<p>Test Tambah </p>
 			<!-- maps -->
 			<p>
 
